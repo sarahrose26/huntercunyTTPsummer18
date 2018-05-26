@@ -16,7 +16,13 @@ Daily Schedule *will vary a bit day-to-day
 Schedule
 --------
 
-####Day 1: Onboarding,Intermediate HTML/CSS/Flexbox/Bootstrap  *[Tutorial] (https://css-tricks.com/snippets/css/a-guide-to-flexbox)  *Project: HTML/CSS profile  *[Homework: This Git tutorial] (https://try.github.io/levels/1/challenges/1)** 
+#### Day 1: Onboarding,Intermediate HTML/CSS/Flexbox/Bootstrap  
+
+#### *[Tutorial] (https://css-tricks.com/snippets/css/a-guide-to-flexbox)  
+
+#### *Project: HTML/CSS profile  
+
+##### *[Homework: This Git tutorial] (https://try.github.io/levels/1/challenges/1)
 
 Day 2
 Git/Github/Collaborative Software Dev
