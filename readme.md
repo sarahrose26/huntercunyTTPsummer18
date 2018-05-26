@@ -7,17 +7,17 @@ Instructor: Sarah Dahnke
 Email: sarahrosedahnke@gmail.com
 
 ------------------
-Daily Schedule *will vary a bit day-to-day
-10-12:15: Lecture, code-alongs, homework review and mini projects
-12:15-1:15: Lunch
-1:15-3: Continuation/advancement of daily mini project and/or internship research for presentation
-3-4: Independent tutorials pertaining to internship stack
+Daily Schedule *will vary a bit day-to-day  
+10-12:15: Lecture, code-alongs, homework review and mini projects  
+12:15-1:15: Lunch  
+1:15-3: Continuation/advancement of daily mini project and/or internship research for presentation  
+3-4: Independent tutorials pertaining to internship stack  
 
 Schedule
 --------
 
 Day 1
-#### ** *Onboarding,Intermediate HTML/CSS/Flexbox/Bootstrap *[Tutorial:] (https://css-tricks.com/snippets/css/a-guide-to-flexbox) *Project: HTML/CSS profile *[Homework: This Git tutorial] (https://try.github.io/levels/1/challenges/1)** 
+#### ** *Onboarding,Intermediate HTML/CSS/Flexbox/Bootstrap  *[Tutorial:] (https://css-tricks.com/snippets/css/a-guide-to-flexbox)  *Project: HTML/CSS profile  *[Homework: This Git tutorial] (https://try.github.io/levels/1/challenges/1)** 
 
 Day 2
 Git/Github/Collaborative Software Dev
