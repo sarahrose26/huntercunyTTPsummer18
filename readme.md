@@ -2,9 +2,10 @@ Tech Talent Pipeline: Hunter College Summer 2018
 ===============================
 
 Class: Monday-Friday, 10am-4pm  
-Dates: May 29-June 22
-Instructor: Sarah Dahnke
-Email: sarahrosedahnke@gmail.com
+Dates: May 29-June 22  
+Instructor: Sarah Dahnke  
+Email: sarahrosedahnke@gmail.com  
+Slack: @sarah
 
 ------------------
 Daily Schedule *will vary a bit day-to-day  
